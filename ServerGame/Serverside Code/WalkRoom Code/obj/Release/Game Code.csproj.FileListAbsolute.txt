@@ -1,0 +1,17 @@
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\MushroomsUnity3DExample.dll
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\MushroomsUnity3DExample.pdb
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.dll
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.xml
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\MushroomsUnity3DExample.dll
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\MushroomsUnity3DExample.pdb
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\Game Code.csprojResolveAssemblyReference.cache
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\bin\Release\MushroomsUnity3DExample.dll
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\bin\Release\MushroomsUnity3DExample.pdb
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.dll
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.xml
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\obj\Release\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\obj\Release\Game Code.csproj.CopyComplete
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\obj\Release\MushroomsUnity3DExample.dll
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\obj\Release\MushroomsUnity3DExample.pdb
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\Game Code\obj\Release\Game Code.csprojAssemblyReference.cache

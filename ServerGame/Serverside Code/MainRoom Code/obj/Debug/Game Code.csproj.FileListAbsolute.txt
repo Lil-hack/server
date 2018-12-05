@@ -1,0 +1,22 @@
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\MushroomsUnity3DExample.dll
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\MushroomsUnity3DExample.pdb
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\MushroomsUnity3DExample.dll
+C:\Users\zik20\Desktop\PlayerIO\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\MushroomsUnity3DExample.pdb
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\bin\Debug\MushroomsUnity3DExample.dll
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\bin\Debug\MushroomsUnity3DExample.pdb
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\obj\Debug\Game Code.csprojAssemblyReference.cache
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\obj\Debug\MushroomsUnity3DExample.dll
+C:\Users\akashkin\Desktop\ServerMyGame\Serverside Code\MainRoom Code\obj\Debug\MushroomsUnity3DExample.pdb
+C:\Users\akashkin\Desktop\ServerGame\Serverside Code\MainRoom Code\bin\Debug\MushroomsUnity3DExample.dll
+C:\Users\akashkin\Desktop\ServerGame\Serverside Code\MainRoom Code\bin\Debug\MushroomsUnity3DExample.pdb
+C:\Users\akashkin\Desktop\ServerGame\Serverside Code\MainRoom Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\akashkin\Desktop\ServerGame\Serverside Code\MainRoom Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\akashkin\Desktop\ServerGame\Serverside Code\MainRoom Code\obj\Debug\MushroomsUnity3DExample.dll
+C:\Users\akashkin\Desktop\ServerGame\Serverside Code\MainRoom Code\obj\Debug\MushroomsUnity3DExample.pdb
